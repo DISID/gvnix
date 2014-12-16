@@ -1,5 +1,5 @@
 // Instalar artefactos de patrones
-web mvn pattern setup
+web mvc pattern setup
 
 // Añadir página con patrón registro para la gestión de productos 
 web mvc pattern master --class ~.web.ProductoController --name ficha --type register
